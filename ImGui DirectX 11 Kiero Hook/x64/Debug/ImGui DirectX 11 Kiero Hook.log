@@ -1,0 +1,10 @@
+﻿  main.cpp
+C:\Users\F\source\repos\ImGui-DirectX-11-Kiero-Hook\ImGui DirectX 11 Kiero Hook\Headers\vec.h(86,14): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\F\source\repos\ImGui-DirectX-11-Kiero-Hook\ImGui DirectX 11 Kiero Hook\Headers\vec.h(214,14): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\F\source\repos\ImGui-DirectX-11-Kiero-Hook\ImGui DirectX 11 Kiero Hook\Headers\vec.h(222,14): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\F\source\repos\ImGui-DirectX-11-Kiero-Hook\ImGui DirectX 11 Kiero Hook\Headers\vec.h(226,14): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\F\source\repos\ImGui-DirectX-11-Kiero-Hook\ImGui DirectX 11 Kiero Hook\main.cpp(116,20): warning C4244: 'initializing': conversion from 'ULONGLONG' to 'DWORD', possible loss of data
+C:\Users\F\source\repos\ImGui-DirectX-11-Kiero-Hook\ImGui DirectX 11 Kiero Hook\main.cpp(43,1): warning C4715: 'WorldToScreen': not all control paths return a value
+  ImGui DirectX 11 Kiero Hook.vcxproj -> C:\Users\F\source\repos\ImGui-DirectX-11-Kiero-Hook\x64\Debug\ImGui DirectX 11 Kiero Hook.dll
+  'pwsh.exe' is not recognized as an internal or external command,
+  operable program or batch file.
